@@ -1,4 +1,4 @@
-library flutter_packagevazifa;
+library flutter_packages;
 
 /// A Calculator.
 class Calculator {
